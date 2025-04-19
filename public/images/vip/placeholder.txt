@@ -1,0 +1,19 @@
+This is a placeholder file to ensure the vip directory exists.
+
+In a real implementation, you would need to add the following images:
+- karyikey-profile.jpg
+- karyikey-1.jpg
+- karyikey-2.jpg
+- karyikey-3.jpg
+- karyikey-4.jpg
+- karyikey-5.jpg
+- akash-profile.jpg
+- akash-1.jpg
+- akash-2.jpg
+- akash-3.jpg
+- akash-4.jpg
+- placeholder-1.jpg
+- placeholder-2.jpg
+- placeholder-3.jpg
+
+Since we can't generate actual images in this environment, you would need to add these images manually to the public/images/vip directory.
